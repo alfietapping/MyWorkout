@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_workout_builder"
+            android:icon="@drawable/ic_add_circle_outline_24px"
+            android:title="BUILD" />
+        <item android:id="@+id/nav_my_workouts"
+            android:icon="@drawable/ic_fitness_center_24px"
+            android:title="WORKOUTS" />
+        <item android:id="@+id/nav_workout_videos"
+            android:icon="@drawable/ic_video_library_24px"
+            android:title="VIDEOS" />
+        <item android:id="@+id/nav_workout_history"
+            android:icon="@drawable/ic_history_24px"
+            android:title="HISTORY" />
+        <item android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help_outline_24px"
+            android:title="HELP"  />
+    </group>
+
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Workout</string>
+    <string name="navigation_drawer_open"> Open navigation drawer</string>
+    <string name="navigation_drawer_close"> Close navigation drawer</string>
+    <string name="add_exercise">Add Exercise</string>
+    <string name="build_workout">Build Workout</string>
+    <string name="current_workout">Current Workout:</string>
+    <string name="workout_name">Enter Workout Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
